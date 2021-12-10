@@ -5,8 +5,6 @@
 
 - 🔭 I am currently working on [p-KA](http://www.pka.ai/)
 
-- 🌱 I am currently learning **Javascript and React**
-
 - 📫 You can reach me at **mariedcpswright@gmail.com**
 
 - ⚡ Fun fact: **I am passionate about cooking and living sustainably**
