@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Marie 👋</h1>
 <h3 align="center">A recent Web Development Graduate from Le Wagon</h3>
 
+<br>
+
 - 🔭 I am currently working on [p-KA](http://www.pka.ai/)
 
 - 📫 You can reach me at **mariedcpswright@gmail.com**
