@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Marie 👋</h1>
 <h3 align="center">A recent Web Development Graduate from Le Wagon</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariew97&label=Profile%20views&color=0e75b6&style=flat" alt="mariew97" /> </p>
-
 - 🔭 I am currently working on [p-KA](http://www.pka.ai/)
 
 - 📫 You can reach me at **mariedcpswright@gmail.com**
